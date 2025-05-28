@@ -9,7 +9,7 @@ arch=('x86_64')
 url="https://softwaredownload.futunn.com/"
 license=('MIT')
 options=(!strip)
-source=("FTNN_desktop_${pkgver}_amd64.AppImage")
+source=("${url}/FTNN_desktop_${pkgver}_amd64.AppImage")
 sha512sums=('SKIP')
 
 _filename="FTNN_desktop_${pkgver}_amd64.AppImage"

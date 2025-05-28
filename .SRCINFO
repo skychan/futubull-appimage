@@ -6,7 +6,7 @@ pkgbase = futubull-appimage
 	arch = x86_64
 	license = MIT
 	options = !strip
-	source = FTNN_desktop_15.13.11208_amd64.AppImage
+	source = https://softwaredownload.futunn.com//FTNN_desktop_15.13.11208_amd64.AppImage
 	sha512sums = SKIP
 
 pkgname = futubull-appimage
