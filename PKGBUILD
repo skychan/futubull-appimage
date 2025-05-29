@@ -4,7 +4,7 @@ pkgname=futubull-appimage
 
 pkgver=15.13.11208
 pkgrel=1
-pkgdesc="Futubull Trading platform AppImage"
+pkgdesc="Futubull (富途牛牛) for Linux (AppImage) - Trade HK, US, CN (A-shares), options, ETFs across global markets platform"
 arch=('x86_64')
 url="https://softwaredownload.futunn.com/"
 license=('MIT')
