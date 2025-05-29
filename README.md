@@ -65,5 +65,5 @@ The installer disables AppImageLauncher integration prompt by default.
 
 This PKGBUILD is MIT licensed.
 
-Futubull is proprietary software — see Futu’s terms of use. (http://futunn.com)
+Futubull is proprietary software — see [Futu’s terms of use](https://www.futunn.com/about/disclaimer). (http://futunn.com)
 
